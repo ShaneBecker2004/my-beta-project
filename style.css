@@ -1,0 +1,39 @@
+    body {
+        background-color: white;
+    }
+    h1 {color: red}
+    header {
+        background-color: lightgray;
+        text-align: center;
+        padding: 30px
+    }
+    p {
+        text-align: center;
+    }
+    nav {
+        top: 0;
+        left: 0;
+        width: 100%;
+        background: gray;
+        padding: 20px;
+        display: flex;
+    }
+    .nav a {      
+        color: black;
+      margin-right: 15px;
+    }
+    .nav a:hover {
+      text-decoration: underline;
+    }
+    footer {
+        background-color: gray;
+        width: 100%;
+        padding: 20px;
+    }
+    div {
+    background-color: yellow;
+    opacity: 0.6;
+    }
+    button {
+        background-color: lightblue;
+    }
